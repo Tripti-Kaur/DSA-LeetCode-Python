@@ -1,7 +1,6 @@
 # DSA Practice – LeetCode (Python)
 
-This repository contains my solutions to Data Structures and Algorithms (DSA)
-problems solved using Python, primarily from LeetCode.
+This repository contains my solutions to Data Structures and Algorithms (DSA) problems solved using Python, primarily from LeetCode.
 
 ## Goals
 - Refresh and strengthen DSA fundamentals
@@ -19,6 +18,7 @@ problems solved using Python, primarily from LeetCode.
 - Trees (Basics)
 
 ## Repository Structure
+```
 arrays/
 strings/
 two_pointers/
@@ -26,6 +26,7 @@ linked_lists/
 stacks_queues/
 binary_search/
 trees/
+```
 
 ## Notes
 - All solutions are written by me.
