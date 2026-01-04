@@ -17,6 +17,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 - Binary Search
 - Trees (Basics)
 - Backtracking
+- Math & Number Theory
 
 ## Repository Structure
 ```
@@ -28,6 +29,7 @@ stacks_queues/
 binary_search/
 trees/
 backtracking/
+math/
 ```
 
 ## Notes
